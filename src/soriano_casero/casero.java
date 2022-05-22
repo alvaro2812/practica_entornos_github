@@ -10,5 +10,7 @@ package soriano_casero;
  * @author Álvaro2812
  */
 public class casero {
-    
+    public static void mundo(){
+        System.out.print(" mundo ");
+    }
 }

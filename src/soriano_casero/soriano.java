@@ -10,5 +10,7 @@ package soriano_casero;
  * @author Álvaro2812
  */
 public class soriano {
-    
+    public static void hola(){
+        System.out.print("Hola");
+    }
 }
