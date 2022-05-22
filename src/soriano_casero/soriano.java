@@ -13,4 +13,8 @@ public class soriano {
     public static void hola(){
         System.out.print("Hola");
     }
+    
+     public static void hola2(){
+        System.out.print("Hola2");
+    }
 }
